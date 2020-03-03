@@ -1,5 +1,2 @@
 # TowerOfHanoi
 
-1.The programm is written in C# language 
-2.The extention of this program is .cs
-3.It shuld be executed using xamarin studio
